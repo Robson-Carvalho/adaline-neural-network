@@ -1,1 +1,3 @@
-# adaline-neural-network
+# Adaline - Classificar os sinais ruidosos
+
+O processo de treinamento da Adaline visa mover, continuamente, o vetor de pesos com o intuito de minimizar o erro quadrático em relação a todas as amostras disponíveis para o aprendizado, isso é um ponto importante, uma vez que, como o algoritmo tende minimizar o erro em relação a todas as amostras, diferentes treinamento para um mesmo conjunto de amostras, mesmo que os pesos sejam inciandos com valores aleatórios, vai ocorrer a tedência a pesos finais semelhantes, quase que inalterados.
