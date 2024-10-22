@@ -1,4 +1,4 @@
-# Adaline - Classificação de Sinais Ruidosos
+# Adaline - Neural Network
 
 O **Adaline** (ADAptive LInear NEuron) é um algoritmo de aprendizado de máquina utilizado para a classificação de dados, especialmente eficaz em cenários com sinais ruidosos. Este algoritmo baseia-se em um modelo de rede neural simples que ajusta os pesos de forma a minimizar o erro quadrático em relação a todas as amostras disponíveis.
 
